@@ -1,0 +1,11 @@
+/home/matthew/Projects/ParallelPractice/obj/Debug/netcoreapp2.0/ParallelPractice.csprojAssemblyReference.cache
+/home/matthew/Projects/ParallelPractice/obj/Debug/netcoreapp2.0/ParallelPractice.csproj.CoreCompileInputs.cache
+/home/matthew/Projects/ParallelPractice/obj/Debug/netcoreapp2.0/ParallelPractice.AssemblyInfoInputs.cache
+/home/matthew/Projects/ParallelPractice/obj/Debug/netcoreapp2.0/ParallelPractice.AssemblyInfo.cs
+/home/matthew/Projects/ParallelPractice/bin/Debug/netcoreapp2.0/ParallelPractice.deps.json
+/home/matthew/Projects/ParallelPractice/bin/Debug/netcoreapp2.0/ParallelPractice.runtimeconfig.json
+/home/matthew/Projects/ParallelPractice/bin/Debug/netcoreapp2.0/ParallelPractice.runtimeconfig.dev.json
+/home/matthew/Projects/ParallelPractice/bin/Debug/netcoreapp2.0/ParallelPractice.dll
+/home/matthew/Projects/ParallelPractice/bin/Debug/netcoreapp2.0/ParallelPractice.pdb
+/home/matthew/Projects/ParallelPractice/obj/Debug/netcoreapp2.0/ParallelPractice.dll
+/home/matthew/Projects/ParallelPractice/obj/Debug/netcoreapp2.0/ParallelPractice.pdb
